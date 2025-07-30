@@ -1,6 +1,12 @@
 # Besant-mini-project
+
+
 🔍 LinkedIn Profile Scraper using Selenium
+
+
 ✅ Project Summary
+
+
 This mini project is a Python-based web scraper that automates the process of extracting names from LinkedIn search results using Selenium WebDriver. It simulates browser actions to log in, navigate through paginated search results, and extract profile names.
 
 The extracted data is stored in a CSV file (output.csv) for easy review and further use, such as lead generation, candidate sourcing, or academic research (as per LinkedIn’s usage policy).
